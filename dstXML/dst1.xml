@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><Data>
+<Account digitOnly="true" name="MY_ACC" required="true" value="12345678"/>
+<Fio name="MY_FIO" readOnly="true" value="МихайлоПотапПотапыч"/>
+<Address flat="22" house="11" name="MY_ADDRESS" readOnly="true" street="Потапская"/>
+<Counter name="COUNT1" required="true" value="10477"/>
+<Counter name="COUNT2" required="true" value="76477"/>
+<Counter name="COUNT3" required="true" value="987"/>
+<Sum name="PAY_SUM" required="false" value="100"/>
+<Sum name="COMM_SUM" readOnly="true" value="2.5"/>
+<Sum name="TOTAL_SUM" required="false" value="102.5"/>
+</Data>
